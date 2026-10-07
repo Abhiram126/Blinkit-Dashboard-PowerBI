@@ -209,15 +209,7 @@ Blinkit-Dashboard-PowerBI/
     └── Blinkit_Dashboard.pdf
 ```
 
----
 
-## 🙌 Credits
-
-Original dashboard created by **Anil Matholiya** ("Dataverse Anil").
-
-Original repository: *(add the link to the original repo here)*
-
----
 
 ## 👨‍💻 Uploaded by
 
